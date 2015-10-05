@@ -1,0 +1,29 @@
+1) Should we assume the data is accurate or not because it is simulated
+2) How was the data collected?  Is it a random sample or does it include every customer?
+   Over what time was this data sampled?
+3) Are dollar figures real or nominal? -Nominal
+4) Is the person insured different than the policy owner? -Policy ID is specific to underlying individual
+5) Is more data available, specifically about the person underlying the policy?
+6) Is more information about the term of term policies available?
+7) What do you want from us?  What perspective should we be taking?  Actuary?
+8) Is all of the customer information complete? How often are customer re-evaluated? 
+   Height and weight remeasured?
+9) What specifies a policy change?  Is the change initiated by the customer or the company?
+10) Is insurance fraud something to worry about?  
+11) Is more info available about adjusters/technicians like how long they've worked?
+12) Why is adjuster zipcode relevant?  Is it the location of their office?
+
+
+Topics of Conversation for 6/30/15 Meeting:
+
+Analysis of transactions over time
+Health Factors vs Transactions/time
+Changes in policy over time
+Adjuster-Technician interaction with the customer
+Analysis of fraudulent transactions
+	Sean
+Overall focus on profits and bottom line.  Remember our goal.
+	Nick
+Investigate outliers
+Communicate openly over our Google Docs
+
